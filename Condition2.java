@@ -2,7 +2,7 @@ class Condition2{
     public static void main(String[]args)
     {
         //Username Check
-        String username = "Shan";
+        String username = "Github";
 
         if(username=="Shan")
         {
